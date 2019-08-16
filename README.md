@@ -37,4 +37,10 @@ Considering the above example the result will be:
  
 { 
 board: [J, J, J, Q, K, cat, J, Q, monkey, bird, bird, bird, J, Q, A], paylines: [{"0 3 6 9 12": 3}, {"0 4 8 10 12":3}], bet_amount: 100, total_win: 40 
- }   There is no need for a database or session state, that would end up in a version 2 outside the scope of this test
+ }   
+ There is no need for a database or session state, that would end up in a version 2 outside the scope of this test
+ 
+ 
+ 
+ 
+ 
